@@ -70,7 +70,7 @@ Desta forma, os seguintes arquivos foram exportados para tratamento no Power Que
 "distancias_novo.xlsx", "demograficas.xlsx" e "base_franquia.csv"
 
 Após tratamento no Power Query, e criação da medida pedida nas questões (razão clientes ativos/população total), criaram-se 
-os três Dashboards explanados a seguir:
+os três Dashboards explanados a seguir salvos no arquivo JobOper.pbix:
 
 
 ### 2-) Região de Maior Potencial
